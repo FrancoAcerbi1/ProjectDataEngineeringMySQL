@@ -1,0 +1,99 @@
+TeamID,Squad,Comp,CompID,NumberOfPl,Age,Possession,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,GlsPer90,AstPer90,G+APer90,Attendance,Top Team Scorer,Goalkeeper
+1,AlavÇs,es La Liga,22,33,27.9,42,38,418,3420,38,29,20,49,23,6,7,93,4,0.76,0.53,1.29,"10,952",Joselu - 14,Fernando Pacheco
+2,Angers,fr Ligue 1,33,30,27.4,48.4,38,418,3420,38,41,25,66,32,9,9,70,4,1.08,0.66,1.74,"7,758",Sofiane Boufal - 8,Danijel Petkovi?
+3,Arminia,de Bundesliga,11,26,25.8,40.7,34,374,3060,34,26,18,44,24,2,2,55,2,0.76,0.53,1.29,"16,773",Masaya Okugawa - 8,Stefan Ortega
+4,Arsenal,eng Premier League,44,27,24.4,52.8,38,418,3420,38,60,41,101,55,5,8,67,4,1.58,1.08,2.66,"59,665",Bukayo Saka - 11,Aaron Ramsdale
+5,Aston Villa,eng Premier League,44,31,26.1,46.5,38,418,3420,38,50,42,92,47,3,3,81,2,1.32,1.11,2.42,"41,681",Ollie Watkins - 11,Emiliano Mart°nez
+6,Atalanta,it Serie A,55,32,27.5,55,38,418,3420,38,62,48,110,57,5,6,87,2,1.63,1.26,2.89,"10,447",Mario Pa?ali? - 13,Juan Musso
+7,Athletic Club,es La Liga,22,26,26.9,48.1,38,418,3420,38,40,34,74,37,3,7,90,4,1.05,0.89,1.95,"32,949",I§aki Williams - 8,Unai Sim¢n
+8,AtlÇtico Madrid,es La Liga,22,26,28.1,50.6,38,418,3420,38,63,45,108,59,4,5,111,7,1.66,1.18,2.84,"48,039",?ngel Correa - 12,Jan Oblak
+9,Augsburg,de Bundesliga,11,26,26.6,41.5,34,374,3060,34,39,26,65,34,5,5,74,0,1.15,0.76,1.91,"15,197",Michael Gregoritsch - 9,Rafa? Gikiewicz
+10,Barcelona,es La Liga,22,38,26.2,64.2,38,418,3420,38,68,52,120,62,6,7,97,5,1.79,1.37,3.16,"53,982",Memphis - 12,Marc-AndrÇ ter Stegen
+11,Bayern Munich,de Bundesliga,11,30,26.8,64.5,34,374,3060,34,92,70,162,87,5,5,36,2,2.71,2.06,4.76,"33,176",Robert Lewandowski - 35,Manuel Neuer
+12,Betis,es La Liga,22,31,28.9,53.7,38,418,3420,38,60,45,105,54,6,6,87,6,1.58,1.18,2.76,"41,749",Juanmi - 16,Rui Silva
+13,Bochum,de Bundesliga,11,28,28,44.7,34,374,3060,34,37,22,59,33,4,6,55,2,1.09,0.65,1.74,"14,236",Sebastian Polter - 10,Manuel Riemann
+14,Bologna,it Serie A,55,36,26.6,50.6,38,418,3420,38,43,34,77,39,4,5,92,7,1.13,0.89,2.03,"14,158",Marko Arnautovi? - 14,?ukasz Skorupski
+15,Bordeaux,fr Ligue 1,33,39,25.7,47.4,38,418,3420,38,50,39,89,48,2,4,91,5,1.32,1.03,2.34,"22,141",Hwang Ui-jo - 11,Benoåt Costil
+16,Brentford,eng Premier League,44,29,25.4,44.8,38,418,3420,38,46,33,79,40,6,6,65,3,1.21,0.87,2.08,"16,918",Ivan Toney - 12,David Raya
+17,Brest,fr Ligue 1,33,25,25.4,43.9,38,418,3420,38,48,32,80,41,7,8,59,2,1.26,0.84,2.11,"11,804",Franck Honorat - 11,Marco Bizot
+18,Brighton,eng Premier League,44,26,26.2,54.4,38,418,3420,38,40,30,70,36,4,7,72,2,1.05,0.79,1.84,"30,966","Leandro Trossard, Neal Maupay - 8",Robert S†nchez
+19,Burnley,eng Premier League,44,23,28.5,40.2,38,418,3420,38,32,26,58,31,1,2,68,2,0.84,0.68,1.53,"19,278",Maxwel Cornet - 9,Nick Pope
+20,C†diz,es La Liga,22,33,28.5,41.3,38,418,3420,38,35,21,56,32,3,6,105,3,0.92,0.55,1.47,"14,055","Anthony Lozano, ?lvaro Negredo - 7",Jerem°as Ledesma
+21,Cagliari,it Serie A,55,33,26.5,44.5,38,418,3420,38,34,26,60,31,3,4,96,5,0.89,0.68,1.58,"9,718",Jo?o Pedro - 13,Alessio Cragno
+22,Celta Vigo,es La Liga,22,25,28.4,55.2,38,418,3420,38,43,29,72,40,3,6,87,3,1.13,0.76,1.89,"10,014",Iago Aspas - 18,Mat°as Dituro
+23,Chelsea,eng Premier League,44,26,27.4,61.8,38,418,3420,38,75,52,127,67,8,9,63,1,1.97,1.37,3.34,"36,443",Mason Mount - 11,Edouard Mendy
+24,Clermont Foot,fr Ligue 1,33,28,26.9,50,38,418,3420,38,36,25,61,34,2,3,65,8,0.95,0.66,1.61,"10,569",Mohamed Lamine Bayo - 14,Ouparine Djoco
+25,Crystal Palace,eng Premier League,44,24,27.1,51.1,38,418,3420,38,50,31,81,44,6,8,69,1,1.32,0.82,2.13,"24,588",Wilfried Zaha - 14,Vicente Guaita
+26,Dortmund,de Bundesliga,11,33,25.9,59.2,34,374,3060,34,81,57,138,70,11,11,63,1,2.38,1.68,4.06,"41,800",Erling Haaland - 22,Gregor Kobel
+27,Eint Frankfurt,de Bundesliga,11,27,26.2,49.6,34,374,3060,34,43,33,76,42,1,2,61,1,1.26,0.97,2.24,"26,162",Rafael BorrÇ - 8,Kevin Trapp
+28,Elche,es La Liga,22,28,29.1,48.4,38,418,3420,38,39,29,68,38,1,1,104,6,1.03,0.76,1.79,"15,640",Pere Milla - 8,êdgar Bad°a
+29,Empoli,it Serie A,55,28,24.5,47.4,38,418,3420,38,47,27,74,40,7,7,87,5,1.24,0.71,1.95,"6,356",Andrea Pinamonti - 13,Guglielmo Vicario
+30,Espanyol,es La Liga,22,34,27.7,46.9,38,418,3420,38,39,25,64,34,5,5,99,7,1.03,0.66,1.68,"17,362",Ra£l de Tom†s - 17,Diego L¢pez
+31,Everton,eng Premier League,44,33,26.7,40,38,418,3420,38,42,29,71,36,6,7,82,6,1.11,0.76,1.87,"38,446",Richarlison - 10,Jordan Pickford
+32,Fiorentina,it Serie A,55,28,26.4,57.7,38,418,3420,38,59,33,92,50,9,12,89,8,1.55,0.87,2.42,"21,107",Du?an Vlahovi? - 17,Pietro Terracciano
+33,Freiburg,de Bundesliga,11,26,26.5,49,34,374,3060,34,55,37,92,50,5,6,34,0,1.62,1.09,2.71,"18,741",Vincenzo Grifo - 9,Mark Flekken
+34,Genoa,it Serie A,55,40,27,43.9,38,418,3420,38,26,19,45,20,6,7,92,3,0.68,0.5,1.18,"12,326",Mattia Destro - 9,Salvatore Sirigu
+35,Getafe,es La Liga,22,31,26.6,41.5,38,418,3420,38,31,26,57,28,3,5,121,8,0.82,0.68,1.5,"8,702",Enes önal - 16,David Soria
+36,Granada,es La Liga,22,32,28.1,44.7,38,418,3420,38,43,28,71,40,3,5,105,4,1.13,0.74,1.87,"13,710",Jorge Molina - 10,Lu°s Maximiano
+37,Greuther FÅrth,de Bundesliga,11,29,25.9,43.6,34,374,3060,34,26,15,41,21,5,5,61,0,0.76,0.44,1.21,"7,672",Branimir Hrgota - 9,Sascha Burchert
+38,Hellas Verona,it Serie A,55,31,26.8,50.6,38,418,3420,38,63,44,107,56,7,8,100,7,1.66,1.16,2.82,"13,894",Giovanni Simeone - 17,Lorenzo Montipï
+39,Hertha BSC,de Bundesliga,11,36,26.7,43.7,34,374,3060,34,35,23,58,32,3,3,62,2,1.03,0.68,1.71,"23,500",Stevan Joveti? - 6,Alexander Schwolow
+40,Hoffenheim,de Bundesliga,11,32,26.1,53.2,34,374,3060,34,55,42,97,55,0,0,75,0,1.62,1.24,2.85,"11,227",Georginio Rutter - 8,Oliver Baumann
+41,Inter,it Serie A,55,27,28.9,56.5,38,418,3420,38,83,57,140,76,7,11,71,0,2.18,1.5,3.68,"44,473",Lautaro Mart°nez - 21,Samir Handanovi?
+42,Juventus,it Serie A,55,32,27.4,51.5,38,418,3420,38,56,37,93,51,5,6,77,2,1.47,0.97,2.45,"22,621",Paulo Dybala - 10,Wojciech Szcz?sny
+43,Kîln,de Bundesliga,11,26,27,54.8,34,374,3060,34,52,40,92,51,1,1,67,1,1.53,1.18,2.71,"31,965",Anthony Modeste - 20,Marvin SchwÑbe
+44,Lazio,it Serie A,55,27,29,55.4,38,418,3420,38,74,48,122,67,7,9,88,5,1.95,1.26,3.21,"23,263",Ciro Immobile - 27,Thomas Strakosha
+45,Leeds United,eng Premier League,44,29,26.1,52.3,38,418,3420,38,42,26,68,37,5,5,101,3,1.11,0.68,1.79,"36,308",Raphinha - 11,Illan Meslier
+46,Leicester City,eng Premier League,44,28,26.5,52,38,418,3420,38,62,46,108,60,2,2,55,1,1.63,1.21,2.84,"32,493",Jamie Vardy - 15,Kasper Schmeichel
+47,Lens,fr Ligue 1,33,28,26.1,50.7,38,418,3420,38,60,39,99,55,5,5,73,7,1.58,1.03,2.61,"28,950",Arnaud Kalimuendo - 12,Jean-Louis Leca
+48,Levante,es La Liga,22,31,28,47.2,38,418,3420,38,51,34,85,43,8,13,109,6,1.34,0.89,2.24,"14,961",JosÇ Luis Morales - 13,C†rdenas
+49,Leverkusen,de Bundesliga,11,29,24.4,53.7,34,374,3060,34,76,58,134,74,2,6,66,2,2.24,1.71,3.94,"17,356",Patrik Schick - 24,Luk†? Hr†deck?
+50,Lille,fr Ligue 1,33,26,26.1,50.8,38,418,3420,38,45,29,74,41,4,5,98,6,1.18,0.76,1.95,"34,346",Jonathan David - 15,Ivo Grbi?
+51,Liverpool,eng Premier League,44,27,27.7,62.7,38,418,3420,38,94,71,165,87,7,8,50,1,2.47,1.87,4.34,"53,352",Mohamed Salah - 23,Alisson
+52,Lorient,fr Ligue 1,33,29,26.2,44.4,38,418,3420,38,35,20,55,32,3,3,69,4,0.92,0.53,1.45,"12,738",Terem Moffi - 8,Paul Nardi
+53,Lyon,fr Ligue 1,33,30,25.6,58.4,38,418,3420,38,64,45,109,56,8,8,65,6,1.68,1.18,2.87,"32,329",Moussa DembÇlÇ - 21,Anthony Lopes
+55,Mainz 05,de Bundesliga,11,28,26.2,46.5,34,374,3060,34,49,36,85,45,4,4,62,4,1.44,1.06,2.5,"12,712","Vedat Muriqi, Salva Sevilla - 5",Manolo Reina
+56,Mallorca,es La Liga,22,33,27.9,45.3,38,418,3420,38,33,23,56,27,6,7,114,7,0.87,0.61,1.47,"52,774",Kevin De Bruyne - 15,Ederson
+57,Manchester City,eng Premier League,44,26,27,67.9,38,418,3420,38,96,63,159,89,7,9,42,1,2.53,1.66,4.18,"73,150",Cristiano Ronaldo - 18,David de Gea
+58,Manchester Utd,eng Premier League,44,29,27.2,52.7,38,418,3420,38,56,46,102,53,3,5,77,2,1.47,1.21,2.68,"51,755",Dimitri Payet - 12,Pau L¢pez
+59,Marseille,fr Ligue 1,33,27,25,61.7,38,418,3420,38,61,40,101,51,10,10,61,3,1.61,1.05,2.66,"14,876",Nicolas de PrÇville - 5,Alexandre Oukidja
+60,Metz,fr Ligue 1,33,36,25.9,42.9,38,418,3420,38,33,24,57,32,1,1,94,9,0.87,0.63,1.5,"26,539",Jonas Hofmann - 12,Yann Sommer
+54,M'Gladbach,de Bundesliga,11,26,26,54,34,374,3060,34,54,38,92,49,5,7,67,1,1.59,1.12,2.71,"17,978",Jonathan Burkardt - 11,Robin Zentner
+61,Milan,it Serie A,55,28,25.6,54,38,418,3420,38,66,39,105,61,5,8,76,3,1.74,1.03,2.76,"44,015","Olivier Giroud, Rafael Le?o - 11",Mike Maignan
+62,Monaco,fr Ligue 1,33,27,24.4,54.1,38,418,3420,38,62,45,107,53,9,9,85,4,1.63,1.18,2.82,"5,877",Wissam Ben Yedder - 25,Alexander NÅbel
+63,Montpellier,fr Ligue 1,33,26,25.8,48.2,38,418,3420,38,48,31,79,45,3,4,77,8,1.26,0.82,2.08,"10,711",Sepe Elye Wahi - 10,Jonas Omlin
+64,Nantes,fr Ligue 1,33,26,26.1,43.9,38,418,3420,38,53,37,90,48,5,5,80,4,1.39,0.97,2.37,"20,803",Randal Kolo Muani - 12,Alban Lafont
+65,Napoli,it Serie A,55,27,27.9,58.3,38,418,3420,38,74,46,120,64,10,14,63,2,1.95,1.21,3.16,"28,119",Victor Osimhen - 14,David Ospina
+66,Newcastle Utd,eng Premier League,44,29,27.5,40.4,38,418,3420,38,41,23,64,38,3,3,81,2,1.08,0.61,1.68,"51,487",Callum Wilson - 8,Martin D£bravka
+67,Nice,fr Ligue 1,33,27,25,51.5,38,418,3420,38,52,35,87,44,8,10,77,6,1.37,0.92,2.29,"16,055",Andy Delort - 16,Walter Ben°tez
+68,Norwich City,eng Premier League,44,28,26.2,42.9,38,418,3420,38,21,16,37,18,3,3,57,1,0.55,0.42,0.97,"26,836",Teemu Pukki - 11,Tim Krul
+69,Osasuna,es La Liga,22,29,27.7,46.9,38,418,3420,38,37,23,60,31,6,8,84,2,0.97,0.61,1.58,"17,107",Ante Budimir - 8,Sergio Herrera
+70,Paris S-G,fr Ligue 1,33,36,27.8,63,38,418,3420,38,88,65,153,81,7,8,79,4,2.32,1.71,4.03,"41,589",Kylian MbappÇ - 28,Keylor Navas
+71,Rayo Vallecano,es La Liga,22,28,27.5,49.9,38,418,3420,38,38,28,66,34,4,4,101,3,1,0.74,1.74,"7,866",Sergi Guardiola - 8,Stole Dimitrievski
+72,RB Leipzig,de Bundesliga,11,29,25.3,56.1,34,374,3060,34,72,53,125,64,8,9,49,0,2.12,1.56,3.68,"22,124",Christopher Nkunku - 20,PÇter Gul†csi
+73,Real Madrid,es La Liga,22,31,27.7,59.9,38,418,3420,38,80,59,139,72,8,12,76,0,2.11,1.55,3.66,"41,235",Karim Benzema - 27,Thibaut Courtois
+74,Real Sociedad,es La Liga,22,32,25.7,54.3,38,418,3420,38,40,22,62,31,9,10,77,4,1.05,0.58,1.63,"26,813",Mikel Oyarzabal - 9,?lex Remiro
+75,Reims,fr Ligue 1,33,35,24,42.2,38,418,3420,38,42,27,69,38,4,6,68,7,1.11,0.71,1.82,"11,071",Hugo Ekitike - 10,Predrag Rajkovi?
+76,Rennes,fr Ligue 1,33,28,25.3,55.9,38,418,3420,38,81,61,142,77,4,4,56,2,2.13,1.61,3.74,"25,493",Martin Terrier - 21,Alfred Gomis
+77,Roma,it Serie A,55,29,26.4,51.4,38,418,3420,38,58,31,89,51,7,9,111,8,1.53,0.82,2.34,"41,929",Tammy Abraham - 17,Rui Patr°cio
+78,Saint-êtienne,fr Ligue 1,33,39,25.1,48.5,38,418,3420,38,41,25,66,36,5,5,81,5,1.08,0.66,1.74,"21,806",Wahbi Khazri - 10,Paul Bernardoni
+79,Salernitana,it Serie A,55,42,27.7,41.2,38,418,3420,38,32,19,51,28,4,5,94,5,0.84,0.5,1.34,"15,073",Federico Bonazzoli - 10,Vid Belec
+80,Sampdoria,it Serie A,55,34,29,46.1,38,418,3420,38,42,29,71,40,2,4,94,4,1.11,0.76,1.87,"9,417",Francesco Caputo - 11,Emil Audero
+81,Sassuolo,it Serie A,55,29,26.1,54.9,38,418,3420,38,60,39,99,53,7,7,92,4,1.58,1.03,2.61,"8,362",Gianluca Scamacca - 16,Andrea Consigli
+82,Sevilla,es La Liga,22,33,28.6,59.4,38,418,3420,38,51,40,91,49,2,3,97,4,1.34,1.05,2.39,"29,756",Rafa Mir - 10,Yassine Bounou
+83,Southampton,eng Premier League,44,25,25.7,47.7,38,418,3420,38,41,26,67,37,4,4,65,2,1.08,0.68,1.76,"30,134",James Ward-Prowse - 10,Fraser Forster
+84,Spezia,it Serie A,55,30,24.4,42.7,38,418,3420,38,38,25,63,35,3,5,88,4,1,0.66,1.66,"6,709",Daniele Verde - 8,Ivan Provedel
+85,Strasbourg,fr Ligue 1,33,26,27,49.5,38,418,3420,38,56,40,96,50,6,8,72,3,1.47,1.05,2.53,"23,555",Ludovic Ajorque - 12,Matz Sels
+86,Stuttgart,de Bundesliga,11,34,24,50.7,34,374,3060,34,40,31,71,39,1,3,64,2,1.18,0.91,2.09,"27,052",Sasa Kalajdzic - 6,Florian MÅller
+87,Torino,it Serie A,55,31,25.2,53.3,38,418,3420,38,43,27,70,37,6,6,89,3,1.13,0.71,1.84,"9,846",Andrea Belotti - 8,Vanja Milinkovi?-Savi?
+88,Tottenham,eng Premier League,44,25,26.5,51.8,38,418,3420,38,63,50,113,58,5,5,69,1,1.66,1.32,2.97,"56,523",Son Heung-min - 23,Hugo Lloris
+89,Troyes,fr Ligue 1,33,35,27.1,44.4,38,418,3420,38,35,23,58,29,6,7,75,6,0.92,0.61,1.53,"9,491","Xavier Chavalerin, Ike Ugbo - 5",Gauthier Gallon
+90,Udinese,it Serie A,55,29,26.2,42.7,38,418,3420,38,58,36,94,55,3,4,95,6,1.53,0.95,2.47,"12,144",Gerard Deulofeu - 13,Marco Silvestri
+91,Union Berlin,de Bundesliga,11,28,28.3,43.7,34,374,3060,34,50,33,83,45,5,5,62,1,1.47,0.97,2.44,"14,046",Taiwo Awoniyi - 15,Andreas Luthe
+92,Valencia,es La Liga,22,34,24.8,43.6,38,418,3420,38,45,30,75,37,8,9,134,8,1.18,0.79,1.97,"27,349","Gonáalo Guedes, Carlos Soler - 11",Giorgi Mamardashvili
+93,Venezia,it Serie A,55,39,26.1,42.3,38,418,3420,38,34,23,57,31,3,5,110,9,0.89,0.61,1.5,"6,648",Thomas Henry - 9,Niki MÑenpÑÑ
+94,Villarreal,es La Liga,22,29,28,56.8,38,418,3420,38,62,51,113,57,5,6,81,1,1.63,1.34,2.97,"14,293",Arnaut Danjuma - 10,Ger¢nimo Rulli
+95,Watford,eng Premier League,44,30,28.4,40.7,38,418,3420,38,33,26,59,32,1,2,63,3,0.87,0.68,1.55,"20,614",Emmanuel Dennis - 10,Ben Foster
+96,West Ham,eng Premier League,44,25,28.2,47.9,38,418,3420,38,58,46,104,54,4,6,52,3,1.53,1.21,2.74,"58,370",Jarrod Bowen - 12,?ukasz Fabia?ski
+97,Wolfsburg,de Bundesliga,11,30,26,50.5,34,374,3060,34,42,25,67,39,3,4,61,3,1.24,0.74,1.97,"12,018",Lukas Nmecha - 8,Koen Casteels
+98,Wolves,eng Premier League,44,26,27.3,49.5,38,418,3420,38,35,22,57,34,1,1,62,2,0.92,0.58,1.5,"30,841",Ra£l JimÇnez - 6,JosÇ S†
